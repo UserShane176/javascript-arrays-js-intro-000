@@ -24,8 +24,3 @@ var array = ["a", 1, "b"]
 function accessElementInArray(array, index){
   return array[1]
 }
-
-
-
-
-
