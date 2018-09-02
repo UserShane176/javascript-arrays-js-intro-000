@@ -19,3 +19,13 @@ function destructivelyAddElementToEndOfArray(array, element){
   array.push(element)
   return array
 }
+
+var array = ["a", 1, "b"]
+function accessElementInArray(array, index){
+  return array[1]
+}
+
+
+
+
+
